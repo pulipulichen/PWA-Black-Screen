@@ -2,7 +2,7 @@
   "name": "Black Screen",
   "short_name": "BlackScrn",
   "start_url": ".",
-  "display": "standalone",
+  "display": "fullscreen",
   "background_color": "#000",
   "description": "Just a black screen",
   "icons": [{
